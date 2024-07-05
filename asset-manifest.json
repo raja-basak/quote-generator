@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/quote-genarator/static/js/main.5980151e.js",
+    "index.html": "/quote-genarator/index.html",
+    "main.5980151e.js.map": "/quote-genarator/static/js/main.5980151e.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.5980151e.js"
+  ]
+}
